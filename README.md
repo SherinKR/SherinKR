@@ -7,11 +7,11 @@ I'm , Btech graduate in Computer Science & Engineering from College of Engineeri
 Some facts about me:
 
 - 👀 I’m interested in developing.
-- 🌱 I’m currently building codeuniq.
+- 🌱 I’m currently building Codeuniq.
 - 💞️ I’m looking to collaborate on web and android development.
 
 
-## Contact Me
+## Reach Me
 
 <img align="left" alt="Sherin's Resume" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2427/2427466.svg" /> View my [Resume](https://sherinkr.github.io/files/Resume_Sherin_KR.pdf) <br><br>
 <img align="left" alt="Sherin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://www.linkedin.com/in/sherin-k-r-544970157) <br><br>
