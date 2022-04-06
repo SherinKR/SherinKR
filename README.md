@@ -13,7 +13,7 @@ Some facts about me:
 
 ## Reach Me
 
-<img align="left" alt="Sherin's Resume" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2427/2427466.svg" /> View my [Resume](https://sherinkr.github.io/files/SherinKR_Resume.pdf) <br><br>
+View my [Resume](https://sherinkr.github.io/files/SherinKR_Resume.pdf) <br><br>
 <img align="left" alt="Sherin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://www.linkedin.com/in/sherin-k-r-544970157) <br><br>
 <img align="left" alt="Sherin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> Connect with me on [Facebook](https://www.facebook.com/sherinkrpayyoli/) <br><br>
 <img align="left" alt="Sherin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" /> Connect with me on [Instagram](https://www.instagram.com/sherin_kr) <br><br>
