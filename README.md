@@ -22,5 +22,10 @@ View my [Resume](https://sherinkr.github.io/files/SherinKR_Resume.pdf) <br><br>
 <img align="left" alt="Sherin's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/googlechrome.svg" /> Check out my <a target="_blank" href="https://sherinkr.github.io">Portfolio</a>
 <br><br>
 
-![Sherin's Github stats](https://github-readme-stats.vercel.app/api?username=SherinKR&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherinKR&layout=compact)](https://github.com/SherinKR/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SherinKR&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+![Sherin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherinKR&show_icons=true&theme=chartreuse-dark)
+
 <br><img align="left" alt="Sherin's Profile Views" src="https://en3cr4pl7lyoesr.m.pipedream.net">
