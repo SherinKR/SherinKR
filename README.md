@@ -2,13 +2,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I am Sherin K R :computer:
 
-I'm a computer science graduate with knowledge in Python, Frappe and ERPNext and with 2+ year of experience in Developments in Frappe Framework and ERPNext customisation. Looking for opportunities in Developments in Frappe Framework and ERPNext customisation to gather more knowledge and gain experience.
+I'm a computer science graduate with knowledge in Python, Frappe and ERPNext and with 5+ year of experience in Developments in Frappe Framework and ERPNext customisation. Looking for opportunities in Developments in Frappe Framework and ERPNext customisation to gather more knowledge and gain experience.
 
 Some facts about me:
 
 - 👀 I’m interested in developing.
-- 🌱 I’m currently building Codeuniq.
-- 💞️ I’m looking to collaborate on web and android development.
+- 🌱 I’m currently building Codeuniq, Director @ efeone.
+- 💞️ I’m looking to collaborate on frappe and ERPNExt Implementation.
 
 
 ## Reach Me
